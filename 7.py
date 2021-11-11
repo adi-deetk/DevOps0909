@@ -6,4 +6,4 @@ for i in range(100):
     my_function("aviel")
 
 
-b = 3
+b = 8
