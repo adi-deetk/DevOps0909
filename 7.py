@@ -4,3 +4,6 @@ def sqrt(my_number):
     result
 for i in range(100):
     my_function("aviel")
+
+
+b = 3
