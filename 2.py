@@ -12,7 +12,7 @@ b = 6
 c = a+b
 b = c+a
 b = 8
-
+#fhgfh
 print (a)
 print (b)
 print (c)
@@ -29,3 +29,5 @@ print(x+int(y))    # int is a intger and a Decimal number so 2.36 became 2
 a = 8
 b = "123"
 print(a+int(b))  # add int make it a number
+
+print "moshe"
