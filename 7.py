@@ -3,5 +3,4 @@ def my_function(current_name):
 def sqrt(my_number):
     result
 
-
-a = 3
+    c = 8
